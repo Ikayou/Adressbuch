@@ -1,4 +1,4 @@
-Projektbeschreibung und Herausforderungen
+Projektbeschreibung und Herausforderungen 
 In diesem Projekt stieß ich auf einige Herausforderungen, insbesondere im Umgang mit der Datenbankverbindung und Datenaktualisierung. Mithilfe von offiziellen Dokumentationen, Stack Overflow und ChatGPT konnte ich schließlich Lösungen finden.
 
 Wichtige Herausforderungen und Lösungsansätze
